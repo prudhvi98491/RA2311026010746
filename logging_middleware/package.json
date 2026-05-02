@@ -1,0 +1,9 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable frontend logging middleware for AffordMed evaluation",
+  "type": "module",
+  "main": "index.js",
+  "author": "AffordMed Candidate",
+  "license": "MIT"
+}
